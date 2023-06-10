@@ -1,4 +1,4 @@
-// EJERCICIO CLASE 2023-06-03 EXTRA N° 3
+// EJERCICIO CLASE 2023-06-03 EXTRA N° 3. RESUELTO.-
 
 // Dada una variable cadena de tipo String queremos otra cadena que sólo tenga su inicial en minúscula
 
