@@ -1,4 +1,4 @@
-// EJERCICIO CLASE 2023-06-03 EXTRA N° 4
+// EJERCICIO CLASE 2023-06-03 EXTRA N° 4. RESUELTO.-
 
 // Dada una variable cadena de tipo String queremos separar las palabras; 
 // es decir generar una lista de palabras. Ejemplos:
