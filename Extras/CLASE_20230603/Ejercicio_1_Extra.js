@@ -1,4 +1,4 @@
-// EJERCICIO CLASE 2023-06-03 EXTRA N° 1
+// EJERCICIO CLASE 2023-06-03 EXTRA N° 1-RESUELTO
 
 // Dada una variable cadena de tipo String queremos saber si sólo tiene dígitos.
 // Esto es molesto.

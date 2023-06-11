@@ -1,4 +1,4 @@
-// EJERCICIO CLASE 2023-06-03 EXTRA N° 2
+// EJERCICIO CLASE 2023-06-03 EXTRA N° 2. RESUELTO
 
 // Dada una variable cadena de tipo String queremos saber si sólo tiene letras.
 // La misma idea que antes pero ahora para chequear si c es una letra usamos:

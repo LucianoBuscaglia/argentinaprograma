@@ -1,4 +1,4 @@
-// EJERCICIO CLASE 2023-06-03 EXTRA N° 6
+// EJERCICIO CLASE 2023-06-03 EXTRA N° 6.SIN RESOLVER.
 
 // Si tenemos una cadena que satisface la condición del punto 5, 
 // queremos devolver la cadena que tiene la inicial del nombre, 
@@ -19,5 +19,6 @@ let cadenaReducida = nombre.charAt(0) + apellido.charAt(0) + ultimosDigitosDNI;
 console.log(cadenaReducida);  // "JD789"
 
 
+console.log(cadenaReducida);  // "JD789"
 
 

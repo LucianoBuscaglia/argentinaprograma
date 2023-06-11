@@ -1,4 +1,4 @@
-// EJERCICIO CLASE 2023-06-03 EXTRA N° 5
+// EJERCICIO CLASE 2023-06-03 EXTRA N° 5. RESUELTO.-
 
 // Dada una cadena queremos ver que tenga la forma “Nombre Apellido DNI” 
 // donde DNI es una cadena sólo de dígitos.
@@ -18,4 +18,3 @@ let esNumDNI = /^\d+$/.test(partes[2]);
 let cumpleCondiciones = esNombre && esApellido && esNumDNI;
 
 console.log(cumpleCondiciones);
-
