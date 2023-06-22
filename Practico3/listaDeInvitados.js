@@ -42,7 +42,7 @@ console.log("La lista de invitados admitidos es: ");
 for (let i = 0; i < admitidos.length; i++) {
     console.log(admitidos[i]);
 }
-
+console.log();
 console.log("La lista de invitados rechazados es: ");
 
 for (let i = 0; i < rechazados.length; i++) {
